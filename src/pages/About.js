@@ -11,19 +11,14 @@ function About() {
       <div className="aboutBottom">
         <h1> ABOUT US</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
-          mollitia, molestiae quas vel sint commodi repudiandae consequuntur
-          voluptatum laborum numquam blanditiis harum quisquam eius sed odit
-          fugiat iusto fuga praesentium optio, eaque rerum! Provident similique
-          accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut
-          molestias architecto voluptate aliquam nihil, eveniet aliquid culpa
-          officia aut! Impedit sit sunt quaerat, odit, tenetur error, harum
-          nesciunt ipsum debitis quas aliquid. Reprehenderit, quia. Quo neque
-          error repudiandae fuga? Ipsa laudantium molestias eos sapiente
-          officiis modi at sunt excepturi expedita sint? Sed quibusdam
-          recusandae alias error harum maxime adipisci amet laborum.
-          Perspiciatis minima nesciunt dolorem! Officiis iure rerum voluptates a
-          cumque velit
+        The inspiration for the development of ... stems from us analyzing datasets to identify and provide awareness of current and future trends related to occupational safety.
+        Construction workers face many on the job dangers and difficulties which can cause serious injuries and could even be fatal.
+        We wanted to create a web app that serves as a catalyst to determine current and future trends of occupational safety while also providing an interactive experience to educate workers in the field!
+        <br/>
+        <br/>
+        ... is a web app with 3 core features being the Data, Tips, and Game screen. On the Data page, users can observe and study graphs which are very intricately implemented using PowerBI as well RStudio to calculate occupational safety trends.
+        With the Tips feature, occupational safety workers can learn more about following the correct safety protocols and guidelines to prevent future injuries or fatalities.
+        With the Game feature, users can test their knowledge of all the information provided on the Tips page to determine how well they are familiar with their safety protocols.
         </p>
       </div>
     </div>
